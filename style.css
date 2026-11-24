@@ -36,3 +36,26 @@ main {
   margin: 20px auto;
   padding: 0 20px;
 }
+
+nav {
+  text-align: center;
+  background-color: transparent;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #666666;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #333333;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0;
+}
