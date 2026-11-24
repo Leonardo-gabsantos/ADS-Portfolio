@@ -6,10 +6,13 @@ body {
   line-height: 1.5;
 }
 
-nav {
-  text-align: center;
-  background-color: transparent;
-  padding: 10px 0;
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: #ffffff;
+  padding: 20px;
 }
 
 header img {
@@ -52,6 +55,10 @@ nav a {
 
 nav a:hover {
   color: #333333;
+}
+
+a {
+  color: #0056b3;
 }
 
 h1,
