@@ -18,3 +18,10 @@ header img {
   object-fit: cover;
   border-radius: 50%;
 }
+
+section {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #dddddd;
+}
